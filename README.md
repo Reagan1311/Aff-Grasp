@@ -3,6 +3,10 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2408.10123-b31b1b.svg)](https://arxiv.org/abs/2408.10123)
 [![GitHub](https://img.shields.io/website?label=Project%20&up_message=website&url=https://reagan1311.github.io/affgrasp/)](https://reagan1311.github.io/affgrasp/)
 
+<div align=center>
+    <img src="assets/teaser.png" width=80%>
+</div>
+
 ## Overview
 - Code for affordance extraction from egocentric videos is in the folder `ego2aff`
 - Code for affordance model learning is in the folder `affordance-learning`
